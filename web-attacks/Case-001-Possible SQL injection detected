@@ -18,8 +18,8 @@ SOURCE:
 DESTINATION:
 The destination is a webserver on the simulated SIEM.
 
-PROTOCAL
-The protocal being used: HTTPS
+PROTOCOL
+The protocol being used: HTTPS
 
 Findings:
 Someone using DigitalOcean cloud services attempted to execute SQL injection.
